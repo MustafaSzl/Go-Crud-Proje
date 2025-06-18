@@ -1,0 +1,2 @@
+# Go-Crud-Proje
+GO DİLİYLE YAZILMIŞ BİR CRUD ÖRNEĞİDİR
