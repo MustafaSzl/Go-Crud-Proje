@@ -1,0 +1,23 @@
+Kaynaklar ve Kullanılan İçerikler
+
+1. https://dogukan.dev/golang-rest-api-crud-islemleri
+- Proje yapısı ve temel CRUD işlemleri
+- Go dili ile REST API oluşturma adımları
+- PostgreSQL kullanımı ve bağlantı örnekleri
+- Router kurulumu ve handler fonksiyonları
+- JSON veri ile etkileşim (encoding/decoding)
+- Hata yönetimi ve loglama
+
+2. https://www.honeybadger.io/blog/how-to-create-crud-application-with-golang-and-mysql/
+- MySQL veritabanı bağlantısı ve yapılandırması
+- CRUD işlemlerinde SQL sorguları
+- Veri modeli oluşturma (struct kullanımı)
+- Basit API endpoint tasarımı
+- Performans ve hata takibi ile ilgili ipuçları
+
+3. https://dev.to/samzhangjy/restful-crud-with-golang-for-beginners-23ia
+- RESTful API kavramları ve Go’da uygulanması
+- HTTP metodları ve route yapılandırması
+- Middleware kullanımı
+- JSON veri formatında istek ve yanıt işleme
+- Basit ama etkili CRUD örnekleri
